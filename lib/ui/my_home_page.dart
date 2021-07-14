@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// created during git workshop
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key? key, required this.title}) : super(key: key);
 
