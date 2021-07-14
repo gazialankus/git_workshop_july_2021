@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text( // some useful lines
-              'You are creating this Flutter.........feacuter 1...... app',
+              'You are creating this Flutter THIS LAPTOP.........feacuter 1...... app',
             ),
             Text(
               '$_counter',
