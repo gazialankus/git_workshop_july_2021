@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             Text(
               'You are creating this Flutter............... app',
-            ),
+            ),// feature 2
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
