@@ -1,6 +1,7 @@
 // changed by the other laptop
 // more changes by this laptop (there was also other)
 // changed by this laptop
+// more commits from other laptop
 import 'package:flutter/material.dart';
 
 // created during git workshop
